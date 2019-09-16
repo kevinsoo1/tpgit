@@ -1,4 +1,3 @@
 MHD
-"malo puissant1" 
-"malo puissant" 
-"MD"
+malo puissant
+MD
